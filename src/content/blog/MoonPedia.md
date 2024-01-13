@@ -1,3 +1,12 @@
+---
+title: 'MoonPedia'
+description: 'General Info about the Moons'
+pubDate: 'Jan 13 2024'
+heroImage: '../../assets/images/placeholder-about.jpg'
+category: 'Category 1'
+tags: []
+---
+
 # Moons
 
 ## Shattered Moon
