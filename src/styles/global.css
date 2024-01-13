@@ -40,6 +40,10 @@
 	h6 {
 		@apply text-white dark:text-white   !important;
 	}
+
+	.prose {
+		@apply text-white dark:text-white !important;
+	}
 }
 
 .glass {
