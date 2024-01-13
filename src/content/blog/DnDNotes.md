@@ -2,7 +2,7 @@
 title: 'MainForNow'
 description: 'Party and General Story Stuff'
 pubDate: 'Jan 13 2024'
-heroImage: '../../assets/images/placeholder-about.jpg'
+heroImage: '../../assets/images/CAT.png'
 category: 'Category 1'
 tags: []
 ---
