@@ -16,8 +16,8 @@ module.exports = {
 				list: 'repeat(auto-fill, minmax(400px, max-content))'
 			},
 			backgroundImage: {
-				'darky': "url('src/assets/images/NIGHT.png')",
-				'lighty': "url('src/assets/images/DAY.png')"
+				"darky": "url(/src/assets/images/NIGHT.png)",
+				"lighty": "url(/src/assets/images/DAY.png)",
 			}
 		}
 	},
