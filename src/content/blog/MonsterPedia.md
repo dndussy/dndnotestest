@@ -1,3 +1,12 @@
+---
+title: 'MonsterPedia'
+description: 'General Monster Info'
+pubDate: 'Jan 13 2024'
+heroImage: '../../assets/images/placeholder-about.jpg'
+category: 'Category 1'
+tags: []
+---
+
 # Monsters
 
 ## Lunar Revenant
