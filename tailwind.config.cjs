@@ -14,6 +14,10 @@ module.exports = {
 			},
 			gridTemplateColumns: {
 				list: 'repeat(auto-fill, minmax(400px, max-content))'
+			},
+			backgroundImage: {
+				'darky': "url(/assets/images/NIGHT.png)",
+				'lighty': "url(/assets/images/DAY.png)"
 			}
 		}
 	},
