@@ -2,7 +2,7 @@
 title: 'NPCPedia'
 description: 'General Info on NPCs'
 pubDate: 'Jan 13 2024'
-heroImage: '../../assets/images/placeholder-about.jpg'
+heroImage: '../../assets/images/Druid.pdf'
 category: 'Category 1'
 tags: []
 ---
