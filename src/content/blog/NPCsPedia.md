@@ -1,3 +1,12 @@
+---
+title: 'NPCPedia'
+description: 'General Info on NPCs'
+pubDate: 'Jan 13 2024'
+heroImage: '../../assets/images/placeholder-about.jpg'
+category: 'Category 1'
+tags: []
+---
+
 # Church Fellas
 
 Father Hauke - let us in to the Chruch the first night.
