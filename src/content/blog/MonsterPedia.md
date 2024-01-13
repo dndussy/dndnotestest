@@ -2,7 +2,7 @@
 title: 'MonsterPedia'
 description: 'General Monster Info'
 pubDate: 'Jan 13 2024'
-heroImage: '../../assets/images/Dragon.pdf'
+heroImage: '../../assets/images/Dragon.png'
 category: 'Category 1'
 tags: []
 ---
