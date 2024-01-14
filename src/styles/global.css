@@ -43,6 +43,7 @@
 
 	.prose {
 		@apply text-white dark:text-white !important;
+		@apply backdrop-opacity-20 !important;
 	}
 }
 
